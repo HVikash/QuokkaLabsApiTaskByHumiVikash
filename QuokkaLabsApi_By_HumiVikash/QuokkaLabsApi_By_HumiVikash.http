@@ -1,0 +1,6 @@
+@QuokkaLabsApi_By_HumiVikash_HostAddress = http://localhost:5093
+
+GET {{QuokkaLabsApi_By_HumiVikash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
